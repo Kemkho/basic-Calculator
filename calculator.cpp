@@ -28,6 +28,6 @@ int main() {
 
                 else 
                 {result = number1 / number2;}
-                cout << "Result is:  " << result << endl;
+    cout << "Result is:  " << result << endl;
 
 }
